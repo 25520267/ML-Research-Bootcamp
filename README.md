@@ -2,8 +2,6 @@
 
 > **Tác giả thực hành:** Dylis (`ledat270406@gmail.com`)  
 > **Lộ trình gốc:** *Machine Learning Research Bootcamp: The Beginner's Path* (Nguyen Minh Nhut – Chief R&D Engineer)  
-> **Triết lý:** *"Fundamentals over Complexity"* — Ưu tiên nền tảng toán học, khoa học đánh giá (Evaluation Science) và tính tái lập (Reproducibility).
-
 ---
 
 ## 📂 Cấu Trúc Repository
